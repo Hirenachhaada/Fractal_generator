@@ -1,6 +1,7 @@
 #   FRACTAL GENERATOR
 
-  site link - https://hirenachhaada.github.io/Fractal_generator/index.html
+• site link - https://hirenachhaada.github.io/Fractal_generator/index.html
+
 •	This a user interactive fractal generating website that generates different types of fractals based on user inputs along with the ability to download the fractal       image as png or in pdf format.
 •	For any querry and bug reports , conatct 9931715052, 7004482646
   Or email us at kumar610nityanand@gmail.com , ashutoshksingh2003@gmail.com 
